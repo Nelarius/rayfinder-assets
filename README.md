@@ -27,3 +27,11 @@ Source: [www.planetminecraft.com/project/neu-rungholt/](https://www.planetminecr
 License: CC BY 3.0
 
 ![rungholt](img/rungholt.png)
+
+### `san-miguel-low-poly.glb`
+
+Source: [Guillermo M. Leal Llaguno](http://www.evvisual.com/)
+
+License: CC BY 3.0
+
+![san-miguel](img/san-miguel-low-poly.png)
