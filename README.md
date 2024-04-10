@@ -1,6 +1,13 @@
 # rayfinder assets
 
-Additional 3d assets that can be used with `rayfinder`.
+Additional 3d assets that can be used with the [`rayfinder`](https://github.com/nelarius/rayfinder) renderer. glTF files are tracked using Git LFS.
+
+```sh
+# After installing Git LFS:
+$ git lfs install
+# After cloning this repo:
+$ git lfs pull
+```
 
 ## McGuire Computer Graphics Archive
 
